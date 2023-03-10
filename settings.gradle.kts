@@ -9,5 +9,6 @@ pluginManagement {
 rootProject.name = "ducttape"
 
 include(
-    ":ducttape-core"
+    ":ducttape-core",
+    ":ducttape-viewmodel"
 )
